@@ -1,4 +1,4 @@
-FROM python:3.11-alpine
+FROM python:3.14-alpine
 
 LABEL maintainer='<author>'
 LABEL version='0.0.0-dev.0-build.0'
